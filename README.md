@@ -1,2 +1,2 @@
-# grow-calc
-Just grow calc. Enough.
+### Grow calculator
+***Just*** grow calculator. **Enough**.
